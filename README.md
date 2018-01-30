@@ -7,8 +7,7 @@
 
 
 具体的模板运行结果如下：
-[![]( /imgfolder/2017-01-15 18-40-06屏幕截图.png
-)]
+[![]( /https://github.com/jiandong4388/imgfolder/blob/jiandong4388-patch-2/2018-01-30.png)]
 
 
 
