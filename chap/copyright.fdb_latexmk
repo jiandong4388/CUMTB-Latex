@@ -1,0 +1,15 @@
+# Fdb version 3
+["pdflatex"] 1517236999 "copyright.tex" "copyright.pdf" "copyright" 1517236999
+  "/etc/texmf/web2c/texmf.cnf" 1482556683 1101 af7716885e081ab43982cab7b4672c1a ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm" 1136768653 768 1321e9409b4137d6fb428ac9dc956269 ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd" 1454284088 2256 80ce1168fb4ce6a85583a9cf8972c013 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1503343927 31343 93828589fb0cea665e553ee5a17ad2d4 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1504191782 3853456 3a810a4dbf8cc2831276b9f18c965194 ""
+  "copyright.aux" 1517236992 8 a94a2480d3289e625eea47cd1b285758 ""
+  "copyright.tex" 1517236999 1250 9019dfd04340f133676a2df5c4f22959 ""
+  (generated)
+  "copyright.pdf"
+  "copyright.log"
