@@ -7,7 +7,7 @@
 
 
 具体的模板运行结果如下：
-![][modelptsc]:https://github.com/jiandong4388/imgfolder/blob/jiandong4388-patch-1/2017-01-15%2018-40-06%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png
+![][modelptsc]:https://github.com/jiandong4388/imgfolder/blob/jiandong4388-patch-1/2017-01-15%2018-40-06%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png?raw=true
 
 
 
