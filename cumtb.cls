@@ -9,9 +9,9 @@
 % 此文档类以 ctexbook 为基础，设定页面尺寸为 A4，默认字号为小四号。
 % CJKfntef 宏包提供了 \maketitle 中用到的 \CJKunderline 命令。
 % fancyhdr 宏包提供了方便使用的命令用于设置页眉、页脚。
-\LoadClass[fntef,a4paper,fancyhdr,cs4size]{ctexbook}[2010/01/22]
+\LoadClass[fntef,a4paper,fancyhdr,cs4size]{ctexbook}[2018/03/22]
 % 此宏包提供图形支持。
-\RequirePackage{graphicx}[1999/02/16]
+\RequirePackage{graphicx}[2018/02/16]
 % 此宏包提供了方便使用的命令用于设置页面布局。
 \RequirePackage{geometry}
 
@@ -53,8 +53,8 @@
 		\begin{center}
 			% 第一部分：校徽、“中国矿业大学（北京）”字样和论文类别名。
 			{
-				\includegraphics[height=0.08\textheight]{img/cumtblogo}\hspace{1em}
-				\includegraphics[height=0.07\textheight]{img/cumtbword}\\[2.25em]
+				\includegraphics[height=0.11\textheight]{img/cumtblogo}\hspace{1em}
+				\includegraphics[height=0.1\textheight]{img/cumtbword}\\[2.25em]
         %\LARGE \textbf{中国矿业大学（北京）}\\[2.25em]
 				{\zihao{1}\bfseries\thesisname}
 			}
@@ -67,7 +67,7 @@
 						\centering\textbf{\@title}
 					\end{minipage}%
 				}
-				\parbox[t]{12em}{\fillinblank{12em}{}\\ \fillinblank{12em}{}}\par
+				\parbox[t]{12em}{\makebox{}\\ \makebox{}}\par
 			}
 			\vfill
 			% 第三部分：作者信息。
@@ -135,4 +135,6 @@
 % 设定各处标题的内容。
 \AtEndOfClass{\input{cumtb.def}}
 \endinput
+
+
 
